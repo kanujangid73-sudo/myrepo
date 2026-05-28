@@ -1,2 +1,2 @@
 # myrepo
-It is my repository
+It is my repository in vs code
